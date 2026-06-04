@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Wenn dir langweilig ist</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="content">
+
+    <h1>🎲 Wenn dir langweilig ist</h1>
+
+    <p>
+        Mach etwas Kleines nur für dich:
+        Musik, rausgehen, schreiben oder träumen.
+    </p>
+
+    <p>
+        Oder denk kurz an uns 🙂
+    </p>
+
+    <a class="back" href="index.html">← zurück</a>
+
+</div>
+
+</body>
+</html>
